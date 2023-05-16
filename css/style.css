@@ -1,0 +1,25 @@
+body {
+   color: #333333;
+}
+
+div.container {
+   width: 300px;
+   padding: 20px 30px;
+   background: #fbfbfb;
+}
+
+.text-left {
+   text-align: left;
+}
+
+.text-center {
+   text-align: center;
+}
+
+.text-right {
+   text-align: right;
+}
+
+.text-jastify {
+   text-align: justify;
+}
